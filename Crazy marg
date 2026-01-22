@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>मिथिलेश दुबे | Crazy Marg</title>
+    <style>
+        body { font-family: sans-serif; background-color: #0d1117; color: white; text-align: center; padding: 50px; }
+        .card { border: 2px solid #3fb950; padding: 25px; border-radius: 20px; display: inline-block; background: #161b22; }
+        h1 { color: #58a6ff; }
+        .btn { display: block; background: #21262d; color: #58a6ff; padding: 10px; margin: 10px 0; border: 1px solid #30363d; border-radius: 5px; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>मिथिलेश कुमार दुबे</h1>
+        <p>Crazy Marg - AI Creator & Bot Developer</p>
+        <hr>
+        <p>मेरे प्रोजेक्ट्स:</p>
+        <a href="https://www.youtube.com/@MithileshDubey-f2e" class="btn">यूट्यूब चैनल</a>
+        <a href="https://t.me/CrazyMarg_bot" class="btn">टेलीग्राम UPSC & Shopping बॉट</a>
+    </div>
+</body>
+</html>
